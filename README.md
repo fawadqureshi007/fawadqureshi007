@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Fawad Qureshi
+# 👋 Hi, I'm Fawad Qureshi
 ### Red Teamer | Pentester | Cybersecurity Analyst
 
 ---
